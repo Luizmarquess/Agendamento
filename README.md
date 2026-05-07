@@ -2,7 +2,7 @@
 Sistema de Agendamento MobileEste é um aplicativo desenvolvido em React Native (Expo) focado em facilitar o agendamento de serviços diversos, como barbearia, clínicas, pet shops, entre outros.
 
 👥
-Integrantes: \* ketleyn de matos pereira
+Integrantes: \* Luiz Felipe de Oliveira Marques
 
 📝
 Descrição do ProjetoO projeto consiste em uma plataforma de agendamento onde usuários podem explorar diferentes estabelecimentos, verificar serviços disponíveis e realizar reservas de horários de forma prática e rápida.O foco é a versatilidade, permitindo o uso em nichos variados:Saúde: Médicos, Dentistas, Nutricionistas.Estética: Barbearia, Manicure, Pilates.Serviços: Lava-car, Pet Shop.
